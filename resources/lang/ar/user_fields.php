@@ -1,0 +1,21 @@
+<?php
+return [
+    'name' => 'الاسم',
+    'email' => 'البريد الالكتروني',
+    'email_verified_at' => 'تاريخ التحقق',
+    'password' => 'كلمة المرور',
+    'gender' => 'الجنس',
+    'male' => 'ذكر',
+    'female' => 'أنثى',
+    'admin' => 'مدير',
+    'created_at' => 'تاريخ الانشاء',
+    'updated_at' => 'تاريخ التعديل',
+    'create_user' => 'انشاء مستخدم',
+    'create_user_desc' => 'انشاء مستخدم جديد',
+    'all_users' => 'حميع المستخدمين',
+    'admin_users' => ' المدراء',
+    'users' => 'المستخدمين',
+    'activity_log' => 'أنشطة المستخدم',
+    'author' => 'الكاتب',
+    'email_copied' => 'تم نسخ البريد الالكتروني',
+];

@@ -1,0 +1,21 @@
+<?php
+return [
+    'name' => 'Name',
+    'email' => 'Email',
+    'email_verified_at' => 'Email Verified At',
+    'password' => 'Password',
+    'gender' => 'Gender',
+    'male' => 'Male',
+    'female' => 'Female',
+    'admin' => 'Admin',
+    'created_at' => 'Created At',
+    'updated_at' => 'Updated At',
+    'create_user' => 'Create User',
+    'create_user_desc' => 'Create new user',
+    'all_users' => 'All Users',
+    'admin_users' => 'Admin Users',
+    'users' => 'Users',
+    'activity_log' => 'User Activities',
+    'author' => 'Author',
+    'email_copied' => 'Email copied to clipboard',
+];
